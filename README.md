@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 seja bem vindo!</h1>
-<h3 align="center">❤ Sou um desenvolvedor apaixonado por programação, modelagem e animação 3D, VFX e pizza 🍕</h3>
+<h3 align="center">❤ Sou um desenvolvedor apaixonado por programação, modelagem e animação 3D, VFX e café ☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard1057&label=Profile%20views&color=0e75b6&style=flat" alt="richard1057" /> </p>
 
